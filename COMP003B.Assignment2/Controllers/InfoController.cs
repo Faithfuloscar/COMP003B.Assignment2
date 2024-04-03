@@ -10,8 +10,8 @@ namespace COMP003B.Assignment2.Controllers
             return View();
         }
 
-        // GET "Info/AboutMe"
-        public IActionResult AboutMe()
+        // GET "Info/About"
+        public IActionResult About()
         {
             return View();
         }
